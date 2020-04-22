@@ -246,7 +246,7 @@ const SHOP_DATA = [
         id: 31,
         name: "Floral T-shirt",
         imageUrl: 'https://i.ibb.co/qMQ75QZ/floral-shirt.png',
-        imageUrl: "/images/shop-img/mens/floral-shirt.png",
+        // imageUrl: "/images/shop-img/mens/floral-shirt.png",
         price: 20,
       },
       {
